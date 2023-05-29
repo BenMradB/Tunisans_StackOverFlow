@@ -1,0 +1,11 @@
+/* .btns {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    position: relative;
+} */
+
+.btns-container {
+    display: flex;
+    gap: 50px;
+}
